@@ -49,8 +49,8 @@ Cách tổ chức này giúp:
 
 ### Quản trị viên
 - Quản lý sản phẩm, loại sản phẩm
-- Quản lý đơn hàng, chi tiết đơn hàng
-- Quản lý người dùng
+- Quản lý đơn hàng, chi tiết đơn hàng, tồn kho
+- Quản lý n, quản lý tài khoản
 - Quản lý banner, tin tức, trang nội dung
 - Quản lý khuyến mãi
 - Thống kê, báo cáo doanh thu
