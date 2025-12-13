@@ -1,6 +1,12 @@
 # web_vpp
 # WEB_VPP – Website bán văn phòng phẩm (PHP MVC)
 
+🔗 **Live Demo:**  
+👉 http://tenban.infinityfreeapp.com
+
+📦 **Source Code (GitHub):**  
+👉 https://github.com/tragng14/web_vpp
+
 ## Giới thiệu dự án
 
 **WEB_VPP** là một dự án website thương mại điện tử bán **văn phòng phẩm**, được phát triển với mục tiêu thể hiện khả năng **lập trình PHP nâng cao** kết hợp cùng **HTML, CSS và Bootstrap**, áp dụng mô hình **MVC (Model – View – Controller)** để xây dựng hệ thống rõ ràng, dễ mở rộng và bảo trì.
