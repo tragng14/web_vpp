@@ -1,0 +1,174 @@
+[2025-11-18 09:26:39] reduceStock called for orderId: 192
+[2025-11-18 09:26:39] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-18 09:27:38] reduceStock called for orderId: 193
+[2025-11-18 09:27:38] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-18 09:27:38] reduceStock called for orderId: 193
+[2025-11-18 09:27:38] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-18 09:31:33] reduceStock called for orderId: 195
+[2025-11-18 09:31:33] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-18 09:31:33] reduceStock called for orderId: 195
+[2025-11-18 09:31:33] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-18 09:35:47] reduceStock called for orderId: 196
+[2025-11-18 09:35:47] Product IP14 stock updated: 45 -> 44
+[2025-11-18 09:35:47] reduceStock completed for order 196
+[2025-11-18 09:39:35] reduceStock called for orderId: 197
+[2025-11-18 09:39:35] Product IP14 stock updated: 44 -> 43
+[2025-11-18 09:39:35] reduceStock completed for order 197
+[2025-11-22 14:31:27] reduceStock called for orderId: 206
+[2025-11-22 14:31:27] Product IP14 stock updated: 36 -> 35
+[2025-11-22 14:31:27] reduceStock completed for order 206
+[2025-11-22 14:50:44] reduceStock called for orderId: 207
+[2025-11-22 14:50:44] Product IP14 stock updated: 35 -> 34
+[2025-11-22 14:50:44] reduceStock completed for order 207
+[2025-11-22 18:56:53] reduceStock called for orderId: 208
+[2025-11-22 18:56:53] Product IP14 stock updated: 34 -> 33
+[2025-11-22 18:56:53] reduceStock completed for order 208
+[2025-11-22 18:58:44] reduceStock called for orderId: 209
+[2025-11-22 18:58:44] Product IP14 stock updated: 33 -> 31
+[2025-11-22 18:58:44] reduceStock completed for order 209
+[2025-11-22 19:03:31] reduceStock called for orderId: 210
+[2025-11-22 19:03:31] Product IP14 stock updated: 31 -> 29
+[2025-11-22 19:03:31] reduceStock completed for order 210
+[2025-11-23 14:51:20] reduceStock called for orderId: 211
+[2025-11-23 14:51:20] Product IP14 stock updated: 29 -> 27
+[2025-11-23 14:51:20] reduceStock completed for order 211
+[2025-11-23 14:57:42] reduceStock called for orderId: 212
+[2025-11-23 14:57:42] Product ip17 stock updated: 4 -> 3
+[2025-11-23 14:57:42] reduceStock completed for order 212
+[2025-11-23 15:09:06] reduceStock called for orderId: 202
+[2025-11-23 15:09:06] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-23 15:09:06] reduceStock called for orderId: 202
+[2025-11-23 15:09:06] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-23 15:15:45] reduceStock called for orderId: 213
+[2025-11-23 15:15:45] Product ip17 stock updated: 3 -> 2
+[2025-11-23 15:15:45] reduceStock completed for order 213
+[2025-11-23 15:20:22] reduceStock called for orderId: 214
+[2025-11-23 15:20:22] Product IP14 stock updated: 28 -> 27
+[2025-11-23 15:20:22] reduceStock completed for order 214
+[2025-11-23 15:38:27] reduceStock called for orderId: 216
+[2025-11-23 15:38:27] Product ip17 stock updated: 60 -> 59
+[2025-11-23 15:38:27] reduceStock completed for order 216
+[2025-11-23 15:41:45] reduceStock called for orderId: 217
+[2025-11-23 15:41:45] Product ip17 stock updated: 59 -> 58
+[2025-11-23 15:41:45] reduceStock completed for order 217
+[2025-11-23 16:01:48] reduceStock called for orderId: 218
+[2025-11-23 16:01:48] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-23 16:01:48] reduceStock called for orderId: 218
+[2025-11-23 16:01:48] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_reduced' in 'field list'
+[2025-11-23 16:39:05] reduceStock called for orderId: 213
+[2025-11-23 16:39:05] Product ip17 stock updated: 3 -> 2
+[2025-11-23 16:39:05] reduceStock completed for order 213
+[2025-11-23 16:44:35] reduceStock called for orderId: 214
+[2025-11-23 16:44:35] Product IP14 stock updated: 27 -> 25
+[2025-11-23 16:44:35] reduceStock completed for order 214
+[2025-11-23 16:55:58] reduceStock called for orderId: 215
+[2025-11-23 16:55:58] Product ip17 stock updated: 2 -> 1
+[2025-11-23 16:55:58] reduceStock completed for order 215
+[2025-11-23 11:00:58] reduceStock called for orderId: 216
+[2025-11-23 11:00:58] Product ip17 stock updated: 1 -> 0
+[2025-11-23 11:00:58] reduceStock completed for order 216
+[2025-11-23 14:32:57] reduceStock called for orderId: 217
+[2025-11-23 14:32:57] Product ip17 stock updated: 2 -> 0
+[2025-11-23 14:32:57] reduceStock completed for order 217
+[2025-11-23 20:34:39] reduceStock called for orderId: 218
+[2025-11-23 20:34:39] Product ip17 stock updated: 2 -> 0
+[2025-11-23 20:34:39] reduceStock completed for order 218
+[2025-11-25 22:55:24] reduceStock called for orderId: 222
+[2025-11-25 22:55:24] Product ip17 stock updated: 1 -> 0
+[2025-11-25 22:55:24] reduceStock completed for order 222
+[2025-11-26 00:50:55] reduceStock called for orderId: 223
+[2025-11-26 00:50:55] Product ip17 stock updated: 1 -> 0
+[2025-11-26 00:50:55] reduceStock completed for order 223
+[2025-12-02 15:40:21] reduceStock called for orderId: 224
+[2025-12-02 15:40:21] Product BC01 stock updated: 30 -> 29
+[2025-12-02 15:40:21] Product BC02 stock updated: 35 -> 34
+[2025-12-02 15:40:21] Product BCC stock updated: 30 -> 29
+[2025-12-02 15:40:21] Product BL001 stock updated: 20 -> 19
+[2025-12-02 15:40:21] Product SBD01 stock updated: 20 -> 19
+[2025-12-02 15:40:21] reduceStock completed for order 224
+[2025-12-02 18:17:09] reduceStock called for orderId: 228
+[2025-12-02 18:17:09] Product BDB02 stock updated: 50 -> 49
+[2025-12-02 18:17:09] reduceStock completed for order 228
+[2025-12-02 12:33:20] reduceStock called for orderId: 229
+[2025-12-02 12:33:20] Product BDB02 stock updated: 49 -> 39
+[2025-12-02 12:33:20] reduceStock completed for order 229
+[2025-12-02 18:46:28] reduceStock called for orderId: 230
+[2025-12-02 18:46:28] Product BDB02 stock updated: 49 -> 29
+[2025-12-02 18:46:28] reduceStock completed for order 230
+[2025-12-02 19:18:17] reduceStock called for orderId: 231
+[2025-12-02 19:18:17] Product BDB02 stock updated: 49 -> 29
+[2025-12-02 19:18:17] reduceStock completed for order 231
+[2025-12-02 19:59:06] reduceStock called for orderId: 237
+[2025-12-02 19:59:06] Product BL002 stock updated: 50 -> 49
+[2025-12-02 19:59:06] reduceStock completed for order 237
+[2025-12-02 20:00:07] reduceStock called for orderId: 238
+[2025-12-02 20:00:07] Product BL002 stock updated: 49 -> 47
+[2025-12-02 20:00:07] reduceStock completed for order 238
+[2025-12-02 14:04:03] reduceStock called for orderId: 239
+[2025-12-02 14:04:03] Product BC03 stock updated: 60 -> 59
+[2025-12-02 14:04:03] reduceStock completed for order 239
+[2025-12-02 14:05:00] reduceStock called for orderId: 240
+[2025-12-02 14:05:00] Product BC04 stock updated: 20 -> 19
+[2025-12-02 14:05:00] reduceStock completed for order 240
+[2025-12-02 20:11:29] reduceStock called for orderId: 241
+[2025-12-02 20:11:29] Product BC05 stock updated: 10 -> 0
+[2025-12-02 20:11:29] reduceStock completed for order 241
+[2025-12-03 22:18:00] reduceStock called for orderId: 242
+[2025-12-03 22:18:00] Product BC01 stock updated: 29 -> 28
+[2025-12-03 22:18:00] Product HB1 stock updated: 13 -> 12
+[2025-12-03 22:18:00] Product TK2 stock updated: 30 -> 29
+[2025-12-03 22:18:00] reduceStock completed for order 242
+[2025-12-04 02:23:57] reduceStock called for orderId: 243
+[2025-12-04 02:23:57] Product BC01 stock updated: 29 -> 19
+[2025-12-04 02:23:57] Product BX02 stock updated: 15 -> 5
+[2025-12-04 02:23:57] reduceStock completed for order 243
+[2025-12-04 21:51:23] reduceStock called for orderId: 244
+[2025-12-04 21:51:23] Product BK01 stock updated: 15 -> 14
+[2025-12-04 21:51:23] reduceStock completed for order 244
+[2025-12-04 23:05:08] reduceStock called for orderId: 245
+[2025-12-04 23:05:08] Product BC02 stock updated: 34 -> 33
+[2025-12-04 23:05:08] Product BC01 stock updated: 19 -> 18
+[2025-12-04 23:05:08] reduceStock completed for order 245
+[2025-12-05 13:48:18] reduceStock called for orderId: 246
+[2025-12-05 13:48:18] Product BC01 stock updated: 18 -> 17
+[2025-12-05 13:48:18] reduceStock completed for order 246
+[2025-12-05 15:51:55] reduceStock called for orderId: 248
+[2025-12-05 15:51:55] Product BL001 stock updated: 19 -> 18
+[2025-12-05 15:51:55] reduceStock completed for order 248
+[2025-12-05 17:28:12] reduceStock called for orderId: 249
+[2025-12-05 17:28:12] Product BX02 stock updated: 5 -> 0
+[2025-12-05 17:28:12] reduceStock completed for order 249
+[2025-12-11 16:14:40] reduceStock called for orderId: 251
+[2025-12-11 16:14:40] Product BG01 stock updated: 27 -> 17
+[2025-12-11 16:14:40] Product BG04 stock updated: 30 -> 20
+[2025-12-11 16:14:40] reduceStock completed for order 251
+[2025-12-11 22:17:37] reduceStock called for orderId: 252
+[2025-12-11 22:17:37] Product CP1 stock updated: 30 -> 0
+[2025-12-11 22:17:37] reduceStock completed for order 252
+[2025-12-11 16:26:59] reduceStock called for orderId: 253
+[2025-12-11 16:26:59] Product BV1 stock updated: 15 -> 14
+[2025-12-11 16:26:59] reduceStock completed for order 253
+[2025-12-11 22:28:42] reduceStock called for orderId: 254
+[2025-12-11 22:28:42] Product BCC stock updated: 29 -> 28
+[2025-12-11 22:28:42] reduceStock completed for order 254
+[2025-12-12 06:18:55] reduceStock called for orderId: 255
+[2025-12-12 06:18:55] Product VV01 stock updated: 30 -> 29
+[2025-12-12 06:18:55] Product M11 stock updated: 10 -> 0
+[2025-12-12 06:18:55] Product BCC stock updated: 29 -> 28
+[2025-12-12 06:18:55] reduceStock completed for order 255
+[2025-12-12 12:23:59] reduceStock called for orderId: 256
+[2025-12-12 12:23:59] Product BCC stock updated: 29 -> 28
+[2025-12-12 12:23:59] Product HB1 stock updated: 13 -> 3
+[2025-12-12 12:23:59] reduceStock completed for order 256
+[2025-12-12 16:00:29] reduceStock called for orderId: 257
+[2025-12-12 16:00:29] Product Vo3 stock updated: 60 -> 59
+[2025-12-12 16:00:29] Product BC01 stock updated: 17 -> 7
+[2025-12-12 16:00:29] reduceStock completed for order 257
+[2025-12-12 23:35:34] reduceStock called for orderId: 258
+[2025-12-12 23:35:34] Product BC01 stock updated: 7 -> 6
+[2025-12-12 23:35:34] Product BC02 stock updated: 33 -> 32
+[2025-12-12 23:35:34] reduceStock completed for order 258
+[2025-12-13 13:54:20] reduceStock called for orderId: 259
+[2025-12-13 13:54:20] Product BK01 stock updated: 14 -> 13
+[2025-12-13 13:54:20] Product BC01 stock updated: 6 -> 5
+[2025-12-13 13:54:20] reduceStock completed for order 259

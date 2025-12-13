@@ -1,0 +1,1405 @@
+===== CALLBACK 2025-11-16 16:43:32 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264522
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763286068
+    [vnp_PayDate] => 20251116164308
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264522
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763286068
+    [vnp_SecureHash] => e64d7f9aef5123c2a7f3bd84c49e7a003bc14fdcd7bb061dba9f3a8bc3362859d86e95e7e1044901c4cb6875727104de0221b41c44cc6a068046ced10a118a99
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 174)
+Reduced stock for order 174
+===== CALLBACK 2025-11-16 16:48:30 =====
+Array
+(
+    [vnp_Amount] => 30000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264530
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763286470
+    [vnp_PayDate] => 20251116164815
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264530
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763286470
+    [vnp_SecureHash] => e43f001940b6f93e1343e7b91d63a4ea0ab371da0ce6b37c23eda69527c1b0d35179e4004b8ebf12a2116b55e7dffac2b3ddad9dabaae137acc335f003fe4e10
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 175)
+Reduced stock for order 175
+===== CALLBACK 2025-11-16 16:50:37 =====
+Array
+(
+    [vnp_Amount] => 20000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264534
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763286593|MAKM=GG100K
+    [vnp_PayDate] => 20251116165022
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264534
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763286593
+    [vnp_SecureHash] => e11cd263f3017d917a826f3c6f6d3015758803edd433a06a25d2f7e042e02424a289e84c026318d962b299cd5d6201258ef6ed40c44c1e52dadf599b5f82d9c3
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 176)
+Reduced stock for order 176
+===== CALLBACK 2025-11-16 16:57:16 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264545
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763286996|MAKM=gg100k
+    [vnp_PayDate] => 20251116165733
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264545
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763286996
+    [vnp_SecureHash] => 20ffa932e7a973ae83a2f2d4dc80d45039e671aaf5b15c329596e80fb13cc670b72c67715f3927459c925d14a89d18683bccaac7304bf8628049d756968f6616
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 185)
+Reduced stock for order 185
+===== CALLBACK 2025-11-16 17:00:12 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264549
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763287214
+    [vnp_PayDate] => 20251116170030
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264549
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763287214
+    [vnp_SecureHash] => ece51ad2b391c222745c96713fd57d398e2f2e87277a8ffccac93c8e01cf352cad4fc0f20ce6974ce082341fb2f7b9794c2c3f106e217b7202cee7d4747f6640
+)
+
+Signature OK | Payment SUCCESS
+Order not found in system: HD1763287214
+===== CALLBACK 2025-11-16 17:06:26 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264563
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763287557|MAKM=gg100k
+    [vnp_PayDate] => 20251116170644
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264563
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763287557
+    [vnp_SecureHash] => a602983a3fbb1dc6b0bc0be68202da766d09ec993d157f45307e136d950c76bebf8f2462c86b3d1c5688857c25f07f2f2fe2c3fc764a73262d9f5e18f23c14dd
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 186)
+Reduced stock for order 186
+===== CALLBACK 2025-11-16 17:09:33 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15264569
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763287737
+    [vnp_PayDate] => 20251116170950
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15264569
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763287737
+    [vnp_SecureHash] => 2c45237fa48e164c0457a54a9aa11900b6711e136f42ff13d05e05569858d012e49d9dc5b45c6623868a14646e6dc635c0139cf11cd3947336b2ad3a41c84265
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 187)
+Reduced stock for order 187
+===== CALLBACK 2025-11-17 12:15:50 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => VNPAY
+    [vnp_CardType] => QRCODE
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356482
+    [vnp_PayDate] => 20251117121440
+    [vnp_ResponseCode] => 24
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 0
+    [vnp_TransactionStatus] => 02
+    [vnp_TxnRef] => HD1763356482
+    [vnp_SecureHash] => df203f3c57b33026f1543f605c5916d2b07bf4e2f6e3d0a2eef1aed26ac8f350a8d1773a39068fd64cb7a2a85a92c66fb152c76effe9c8d2e4bdfbaf18a28545
+)
+
+Signature FAIL or Payment FAIL
+===== CALLBACK 2025-11-17 12:23:06 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15265913
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356617
+    [vnp_PayDate] => 20251117122248
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15265913
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763356617
+    [vnp_SecureHash] => 45db8092f650df6f84618b40a9f1a61ffb1989ef27dca4d06bf72bcdfc2d4011154a2166ca55c18569d55c32d109d6093e4a99453d1530ed8f4ea944af72c90b
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 183)
+Reduced stock for order 183
+===== CALLBACK 2025-11-17 12:25:04 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15265913
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356617
+    [vnp_PayDate] => 20251117122248
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15265913
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763356617
+    [vnp_SecureHash] => 45db8092f650df6f84618b40a9f1a61ffb1989ef27dca4d06bf72bcdfc2d4011154a2166ca55c18569d55c32d109d6093e4a99453d1530ed8f4ea944af72c90b
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 183)
+Reduced stock for order 183
+===== CALLBACK 2025-11-17 12:26:30 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15265913
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356617
+    [vnp_PayDate] => 20251117122248
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15265913
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763356617
+    [vnp_SecureHash] => 45db8092f650df6f84618b40a9f1a61ffb1989ef27dca4d06bf72bcdfc2d4011154a2166ca55c18569d55c32d109d6093e4a99453d1530ed8f4ea944af72c90b
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 183)
+Reduced stock for order 183
+===== CALLBACK 2025-11-17 12:27:41 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15265913
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356617
+    [vnp_PayDate] => 20251117122248
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15265913
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763356617
+    [vnp_SecureHash] => 45db8092f650df6f84618b40a9f1a61ffb1989ef27dca4d06bf72bcdfc2d4011154a2166ca55c18569d55c32d109d6093e4a99453d1530ed8f4ea944af72c90b
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 183)
+Reduced stock for order 183
+===== CALLBACK 2025-11-17 12:33:34 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15265913
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763356617
+    [vnp_PayDate] => 20251117122248
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15265913
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763356617
+    [vnp_SecureHash] => 45db8092f650df6f84618b40a9f1a61ffb1989ef27dca4d06bf72bcdfc2d4011154a2166ca55c18569d55c32d109d6093e4a99453d1530ed8f4ea944af72c90b
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 183)
+Reduced stock for order 183
+===== CALLBACK 2025-11-18 08:52:15 =====
+Array
+(
+    [vnp_Amount] => 54000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267677
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763430704
+    [vnp_PayDate] => 20251118085158
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267677
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763430704
+    [vnp_SecureHash] => 41966ad2e52d89d35417787b023f961c7d69640113d5151efc15503da1880f618c3f3506923a0cdeab49857f0010c8e88b332dd48a4d42e430814f6ef7bb2790
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 185)
+Reduced stock for order 185
+===== CALLBACK 2025-11-18 08:55:30 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267683
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763430889
+    [vnp_PayDate] => 20251118085513
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267683
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763430889
+    [vnp_SecureHash] => e47aa57c9d9a748e8edda9997cd0a45405906d47aeda4492b7b8d81098221d4fa71ca6c3390258ab163d6c2c390e8453c2cb31fa9037aeb3282c760c6280ca15
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 186)
+Reduced stock for order 186
+===== CALLBACK 2025-11-18 08:56:55 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267689
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763430984
+    [vnp_PayDate] => 20251118085637
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267689
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763430984
+    [vnp_SecureHash] => 9427435171a8fb96135c7768d9dcccf07bac67deef30a91ab62400241571d08e44f04324a5bbaf79aebf27bd9a4d2cda7a3d1d8660570563b99468eb083a49f5
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 187)
+Reduced stock for order 187
+===== CALLBACK 2025-11-18 09:07:35 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267705
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763431619
+    [vnp_PayDate] => 20251118090718
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267705
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763431619
+    [vnp_SecureHash] => 260b3526395b5a57cfa93b8ea5a96640b5e183c284d4d56f75045d29cbf1ea47874c2d8ce3e0fdc3ee641b6e7054fb719d9cdeb80ddc46bc8d9f5e546b43e8f8
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 188)
+Reduced stock for order 188
+===== CALLBACK 2025-11-18 09:11:49 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267709
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763431871
+    [vnp_PayDate] => 20251118091132
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267709
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763431871
+    [vnp_SecureHash] => cf135b85835d2bdb2c8176ffcabddc20a510d6d0468e1f7bb9d223347f674eb98857532b5f84a8183adff3c8c52073b5aff95b7800c8c837f595e332ad290691
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 189)
+Reduced stock for order 189
+===== CALLBACK 2025-11-18 09:12:16 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267709
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763431871
+    [vnp_PayDate] => 20251118091132
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267709
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763431871
+    [vnp_SecureHash] => cf135b85835d2bdb2c8176ffcabddc20a510d6d0468e1f7bb9d223347f674eb98857532b5f84a8183adff3c8c52073b5aff95b7800c8c837f595e332ad290691
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 189)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:13:21 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267712
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763431959
+    [vnp_PayDate] => 20251118091304
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267712
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763431959
+    [vnp_SecureHash] => a85aafb8013022b2bffa96171d3d9dc5b425fe7494200e702efaed31c250e3690d6f4e6b77968189de09bd1849d4490bedcbe680edd58be86389b1f50af41c59
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 190)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:17:32 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267720
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763432227
+    [vnp_PayDate] => 20251118091716
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267720
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763432227
+    [vnp_SecureHash] => 736e53f7beaac7d223e40f85b072a4bfdd3fcb302dd64480ee84cc24a1a337df462121955ed48b76dede2d9a2ed40902531625a4a52da5208c290f2526b8eff9
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 191)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:23:06 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267731
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763432558
+    [vnp_PayDate] => 20251118092249
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267731
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763432558
+    [vnp_SecureHash] => 8e71da23d04568f912b4826073497a02f7c1adb7143d596b099672ded5561bad066efe826dcb09b58a3ed5c060919dd2dee4c3db403d8331cce1727c51978646
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 192)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:26:39 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267731
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763432558
+    [vnp_PayDate] => 20251118092249
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267731
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763432558
+    [vnp_SecureHash] => 8e71da23d04568f912b4826073497a02f7c1adb7143d596b099672ded5561bad066efe826dcb09b58a3ed5c060919dd2dee4c3db403d8331cce1727c51978646
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 192)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:27:38 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267742
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763432819
+    [vnp_PayDate] => 20251118092722
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267742
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763432819
+    [vnp_SecureHash] => 964e4e936bc3cb354ff845275010376dfa393d9af398fde6f62b4e0e8705fe78b6209bd49f385f94cf9c0aff822fd992b86c44cd7fc5abde01eb3535a2d3069d
+)
+
+Signature OK | Payment SUCCESS
+Update order => dathanhtoan OK (OrderID 193)
+[HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:31:33 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267753
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763433067
+    [vnp_PayDate] => 20251118093117
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267753
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763433067
+    [vnp_SecureHash] => 3380629ea1a91fc55b855138ce1a0eabf510f33308b59abf0a4b4e6e7c36263699f952ca2ce4dae461db4dda27f3d1e964d5223c619a785cd55e77f409d431e3
+)
+
+[2025-11-18 09:31:33] Signature OK | Payment SUCCESS
+[2025-11-18 09:31:33] Update order => dathanhtoan OK (OrderID 195)
+[2025-11-18 09:31:33] reduceStockAfterPayment called for order 195 -> result: FAILED
+[2025-11-18 09:31:33] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:35:47 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267767
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763433321
+    [vnp_PayDate] => 20251118093531
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267767
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763433321
+    [vnp_SecureHash] => 019bd7ef189c5f3e0e4a2b7534b15b9e062d835002a5d84830377e0bf2928f5cbdff2e20ddbcbf20d3f10db3818030643eeac563ba0782ca60a3f05be7f1108d
+)
+
+[2025-11-18 09:35:47] Signature OK | Payment SUCCESS
+[2025-11-18 09:35:47] Update order => dathanhtoan OK (OrderID 196)
+[2025-11-18 09:35:47] Skipped reduceStock: stock_reduced flag = 1 for order 196
+[2025-11-18 09:35:47] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-18 09:39:35 =====
+Array
+(
+    [vnp_Amount] => 27000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15267778
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763433545
+    [vnp_PayDate] => 20251118093919
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15267778
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763433545
+    [vnp_SecureHash] => e16dd054f1fc115fc59797023839f0e2ce41c0594ac406385f4a8fb93a49436b0a36c90ef23198fd80b78a00099f50ca1d21a555836a072f7bf6e9c6480384f4
+)
+
+[2025-11-18 09:39:35] Signature OK | Payment SUCCESS
+[2025-11-18 09:39:35] Update order => dathanhtoan OK (OrderID 197)
+[2025-11-18 09:39:35] Skipped reduceStock: stock_reduced flag = 1 for order 197
+[2025-11-18 09:39:35] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-22 14:31:27 =====
+Array
+(
+    [vnp_Amount] => 22000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15280564
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763796633|MAKM=123
+    [vnp_PayDate] => 20251122143104
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15280564
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763796633
+    [vnp_SecureHash] => 3addf27818ba7210090b298311fd24d0f953c4ad83c19211545945a90b204d7e7ebf17285402303778c3bb5745ae835f5c0cd0b72dba55e890482cf16bfa4468
+)
+
+[2025-11-22 14:31:27] Signature OK | Payment SUCCESS
+[2025-11-22 14:31:27] Update order => dathanhtoan OK (OrderID 206)
+[2025-11-22 14:31:27] Skipped reduceStock: stock_reduced flag = 1 for order 206
+[2025-11-22 14:31:27] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-22 14:50:44 =====
+Array
+(
+    [vnp_Amount] => 22000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15280599
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763797816|MAKM=123
+    [vnp_PayDate] => 20251122145025
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15280599
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763797816
+    [vnp_SecureHash] => d0eec9200c1f7903dbb231f19431bcc0e235d5b170c2883bacac82fa8a87ce69ad0230845852486668c902fb2879c8dc6426c9429877c48cd5413dc9d200d8e3
+)
+
+[2025-11-22 14:50:44] Signature OK | Payment SUCCESS
+[2025-11-22 14:50:44] Update order => dathanhtoan OK (OrderID 207)
+[2025-11-22 14:50:44] Promo code updated (code=123) -> affected=1
+[2025-11-22 14:50:44] Skipped reduceStock: stock_reduced flag = 1 for order 207
+[2025-11-22 14:50:44] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-22 18:56:53 =====
+Array
+(
+    [vnp_Amount] => 22000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15280981
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763812571|MAKM=123
+    [vnp_PayDate] => 20251122185634
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15280981
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763812571
+    [vnp_SecureHash] => ef802bbc0d99e44380c08b0035a701b194f8276d6665321bed71c5e6ea7b5067aecdde52b7dfadbdd97b251bc74438d2b234359894d9ea772628e7cb3550a442
+)
+
+[2025-11-22 18:56:53] Signature OK | Payment SUCCESS
+[2025-11-22 18:56:53] Update order => dathanhtoan OK (OrderID 208)
+[2025-11-22 18:56:53] Promo code updated (code=123) -> affected=1
+[2025-11-22 18:56:53] Skipped reduceStock: stock_reduced flag = 1 for order 208
+[2025-11-22 18:56:53] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-22 18:58:44 =====
+Array
+(
+    [vnp_Amount] => 54000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15280986
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763812697|MAKM=123
+    [vnp_PayDate] => 20251122185824
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15280986
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763812697
+    [vnp_SecureHash] => 5b4163a80d930241e456c287a7572b1458d76e5fde65c89d79c8c61012f93d55b320c17d68556ea7f9a0dbe7e21f5db23ef616954febad22b11e2a308da9a20b
+)
+
+[2025-11-22 18:58:44] Signature OK | Payment SUCCESS
+[2025-11-22 18:58:44] Update order => dathanhtoan OK (OrderID 209)
+[2025-11-22 18:58:44] Promo code updated (code=123) -> affected=1
+[2025-11-22 18:58:44] Skipped reduceStock: stock_reduced flag = 1 for order 209
+[2025-11-22 18:58:44] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-22 19:03:31 =====
+Array
+(
+    [vnp_Amount] => 54000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15280995
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763812969|MAKM=123
+    [vnp_PayDate] => 20251122190302
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15280995
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763812969
+    [vnp_SecureHash] => 7b839cfd3ae73e9b7bcb91416438b9d112fa576c94386d3e568f902f07895589640e9fb75e3169aa1fdae425aecc121068134155646e81504b9b30dd265ac2f9
+)
+
+[2025-11-22 19:03:31] Signature OK | Payment SUCCESS
+[2025-11-22 19:03:31] Update order => dathanhtoan OK (OrderID 210)
+[2025-11-22 19:03:31] Promo code updated (code=123) -> affected=1
+[2025-11-22 19:03:31] Skipped reduceStock: stock_reduced flag = 1 for order 210
+[2025-11-22 19:03:31] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 14:51:20 =====
+Array
+(
+    [vnp_Amount] => 54000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282012
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763884173|MAKM=123
+    [vnp_PayDate] => 20251123145101
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282012
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763884173
+    [vnp_SecureHash] => 523c1e64523954f1d411d4c70a58405df2548cea3feea3d561f3885fbd1835d73ef4a0d4398597e9f05d2ecda477c5923a52d08b7300bf9eee49ffccf5e8c76f
+)
+
+[2025-11-23 14:51:20] Signature OK | Payment SUCCESS
+[2025-11-23 14:51:20] Update order => dathanhtoan OK (OrderID 211)
+[2025-11-23 14:51:20] Promo code updated (code=123) -> affected=1
+[2025-11-23 14:51:20] Skipped reduceStock: stock_reduced flag = 1 for order 211
+[2025-11-23 14:51:20] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 14:57:42 =====
+Array
+(
+    [vnp_Amount] => 67000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282030
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763884626|MAKM=123
+    [vnp_PayDate] => 20251123145723
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282030
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763884626
+    [vnp_SecureHash] => 32439c65dc322c5bbba7dcae90103b867cc65cd44b526666b5e343be3b28328b39f70d68fde60f7819731f970705237db068a584bddd9b248c1da568618ae98b
+)
+
+[2025-11-23 14:57:42] Signature OK | Payment SUCCESS
+[2025-11-23 14:57:42] Update order => dathanhtoan OK (OrderID 212)
+[2025-11-23 14:57:42] Promo code updated (code=123) -> affected=1
+[2025-11-23 14:57:42] Skipped reduceStock: stock_reduced flag = 1 for order 212
+[2025-11-23 14:57:42] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 15:09:06 =====
+Array
+(
+    [vnp_Amount] => 72000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282057
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763885318|MAKM=GG50K
+    [vnp_PayDate] => 20251123150903
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282057
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763885318
+    [vnp_SecureHash] => 3bf3f133d01cb790ff4bc564d410efa49864751ad595cb0f0374a5c4af0f00fffc0eb9accdc9b804618a46754ea2fe10a23e57130413ac59620ff00c33ae4a8e
+)
+
+[2025-11-23 15:09:06] Signature OK | Payment SUCCESS
+[2025-11-23 15:09:06] Update order => dathanhtoan OK (OrderID 202)
+[2025-11-23 15:09:06] Promo code updated (code=GG50K) -> affected=1
+[2025-11-23 15:09:06] reduceStockAfterPayment called for order 202 -> result: FAILED
+[2025-11-23 15:09:06] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 15:15:45 =====
+Array
+(
+    [vnp_Amount] => 67000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282067
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763885701|MAKM=123
+    [vnp_PayDate] => 20251123151540
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282067
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763885701
+    [vnp_SecureHash] => 67615cb4a7d41bf19abf423a89b1a6139dfc13fa4808e54ea6035a97e9e4627689e3efa79fe89bca325486741eccf7c55d1b9f72c16dcfc6f99102f212d5889f
+)
+
+[2025-11-23 15:15:45] Signature OK | Payment SUCCESS
+[2025-11-23 15:15:45] Update order => dathanhtoan OK (OrderID 213)
+[2025-11-23 15:15:45] Promo code updated (code=123) -> affected=1
+[2025-11-23 15:15:45] Skipped reduceStock: stock_reduced flag = 1 for order 213
+[2025-11-23 15:15:45] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 15:20:22 =====
+Array
+(
+    [vnp_Amount] => 17000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282078
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763885997|MAKM=123
+    [vnp_PayDate] => 20251123152020
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282078
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763885997
+    [vnp_SecureHash] => aee05dfe1a9c4318e680bf3715eb04498e036cbcad13bc55e2300e0227953d63f0a0ecb55252880e7a5dee4c9ededa1b56a9d56ddce018ba253204301b740270
+)
+
+[2025-11-23 15:20:22] Signature OK | Payment SUCCESS
+[2025-11-23 15:20:22] Update order => dathanhtoan OK (OrderID 214)
+[2025-11-23 15:20:22] Promo code updated (code=123) -> affected=1
+[2025-11-23 15:20:22] Skipped reduceStock: stock_reduced flag = 1 for order 214
+[2025-11-23 15:20:22] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 15:38:27 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282108
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763887084|MAKM=123
+    [vnp_PayDate] => 20251123153824
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282108
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763887084
+    [vnp_SecureHash] => 3b5b68b27711183bc9cea5018a9424f69b9e6434ba49019b733ae173bc885a09d107265916f090fb8e09531373ae2ebe676d810a316f3dc93fdf34ccb2bbf31e
+)
+
+[2025-11-23 15:38:27] Signature OK | Payment SUCCESS
+[2025-11-23 15:38:27] Update order => dathanhtoan OK (OrderID 216)
+[2025-11-23 15:38:27] Skipped reduceStock: stock_reduced flag = 1 for order 216
+[2025-11-23 15:38:27] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 15:41:45 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282114
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763887286|MAKM=123
+    [vnp_PayDate] => 20251123154142
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282114
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763887286
+    [vnp_SecureHash] => 3f026846d78681621debcec331cc53ae341d2e0a1904b426b1915bbaa0e938a76e606f623485251cfbf192ea1204c0e3118ea7d04d55486b588e007c34d9c63c
+)
+
+[2025-11-23 15:41:45] Signature OK | Payment SUCCESS
+[2025-11-23 15:41:45] Update order => dathanhtoan OK (OrderID 217)
+[2025-11-23 15:41:45] Skipped reduceStock: stock_reduced flag = 1 for order 217
+[2025-11-23 15:41:45] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 16:01:48 =====
+Array
+(
+    [vnp_Amount] => 67000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282158
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763888482|MAKM=123
+    [vnp_PayDate] => 20251123160145
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282158
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763888482
+    [vnp_SecureHash] => 45a54b8b99288a5bd9e5e897fe9111451f47aa1cee7a781244c680866660acb3d187d7a31ba12ed89a7327648be4c885d385be9ed2285d89dd7acf2e270876d5
+)
+
+[2025-11-23 16:01:48] Signature OK | Payment SUCCESS
+[2025-11-23 16:01:48] Update order => dathanhtoan OK (OrderID 218)
+[2025-11-23 16:01:48] Promo code updated (code=123) -> affected=1
+[2025-11-23 16:01:48] reduceStockAfterPayment called for order 218 -> result: FAILED
+[2025-11-23 16:01:48] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 16:39:04 =====
+Array
+(
+    [vnp_Amount] => 67000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282224
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763890709|MAKM=123
+    [vnp_PayDate] => 20251123163902
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282224
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763890709
+    [vnp_SecureHash] => 89349bec420d02dc9d194ac8c13f08b3c4e3cc581b906ed04e93445071843f1fd022bd7e3b8738185ad1661271baeaf9bad2eec9b7164d918c86bc1ddcf1b3f1
+)
+
+[2025-11-23 16:39:05] Signature OK | Payment SUCCESS
+[2025-11-23 16:39:05] Update order => dathanhtoan OK (OrderID 213)
+[2025-11-23 16:39:05] Promo code updated (code=123) -> affected=1
+[2025-11-23 16:39:05] Skipped reduceStock: stock_reduced flag = 1 for order 213
+[2025-11-23 16:39:05] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 16:44:35 =====
+Array
+(
+    [vnp_Amount] => 54000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282236
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763891046|MAKM=123
+    [vnp_PayDate] => 20251123164432
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282236
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763891046
+    [vnp_SecureHash] => d3536566132686a082a2bf2e69cb38e2e51d5be7dfdb79aa095f0be0cd28893927716d1e6547849bb6381259c0bfa94c3d5a871f960e20a99a642cbd8404ab39
+)
+
+[2025-11-23 16:44:35] Signature OK | Payment SUCCESS
+[2025-11-23 16:44:35] Update order => dathanhtoan OK (OrderID 214)
+[2025-11-23 16:44:35] Skipped reduceStock: stock_reduced flag = 1 for order 214
+[2025-11-23 16:44:35] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 16:55:58 =====
+Array
+(
+    [vnp_Amount] => 67000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282247
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763891730|MAKM=123
+    [vnp_PayDate] => 20251123165556
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282247
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763891730
+    [vnp_SecureHash] => 83459846391390261d2ad86f04295cfd304097014f60a870309965c1e601cb27ca5b353c0700f23a987f8e9e929d69e394bcc59c18d0cd0afefc99568fa4e37f
+)
+
+[2025-11-23 16:55:58] Signature OK | Payment SUCCESS
+[2025-11-23 16:55:58] markAsPaid OK (OrderID 215)
+[2025-11-23 16:55:58] Promo code updated (code=123) -> affected=1
+[2025-11-23 16:55:58] Skip reduceStock: already reduced before
+[2025-11-23 16:55:58] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-23 20:34:39 =====
+Array
+(
+    [vnp_Amount] => 144000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15282597
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1763904822|MAKM=123
+    [vnp_PayDate] => 20251123203435
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15282597
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1763904822
+    [vnp_SecureHash] => bfc50f5e0f1f97929b90375ff2d54fff1bc68fc569a5830ec71f23a8dd0757c80fc26d961f3ea9a6ba932c6923bb9bddcd6f785d5a775fb18d7eac96eade38a5
+)
+
+[2025-11-23 20:34:39] Signature OK | Payment SUCCESS
+[2025-11-23 20:34:39] markAsPaid OK (OrderID 218)
+[2025-11-23 20:34:39] Promo code updated (code=123) -> affected=1
+[2025-11-23 20:34:39] Skip reduceStock: already reduced before
+[2025-11-23 20:34:39] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-25 22:55:24 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15301119
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764086051
+    [vnp_PayDate] => 20251125225513
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15301119
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764086051
+    [vnp_SecureHash] => 47428543f13c8355eac976c20279377dbd5f8ec8bdb565903cc42176ff38bd20973e3a463b0b62924cd0175dfa00a06da35abbea7c1d97b3c509ff934011ee06
+)
+
+[2025-11-25 22:55:24] Signature OK | Payment SUCCESS
+[2025-11-25 22:55:24] markAsPaid OK (OrderID 222)
+[2025-11-25 22:55:24] Skip reduceStock: already reduced before
+[2025-11-25 22:55:24] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-11-26 00:50:55 =====
+Array
+(
+    [vnp_Amount] => 77000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15301337
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764093022
+    [vnp_PayDate] => 20251126005051
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15301337
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764093022
+    [vnp_SecureHash] => e2682cb442d5b7f29922f1699c2765f974ccefbde373eb6901f4e77374d5a45edb18390cd8c2c06d63b35aaf8473a16418f798847d8a9e453998ba4cc647e1e1
+)
+
+[2025-11-26 00:50:55] Signature OK | Payment SUCCESS
+[2025-11-26 00:50:55] markAsPaid OK (OrderID 223)
+[2025-11-26 00:50:55] Skip reduceStock: already reduced before
+[2025-11-26 00:50:55] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 15:40:21 =====
+Array
+(
+    [vnp_Amount] => 29800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315005
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764664779|MAKM=GG30
+    [vnp_PayDate] => 20251202154016
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315005
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764664779
+    [vnp_SecureHash] => b8e8f1f59e8618f1cfa40bd48a451252075a0f78389f27b9f7633d971c4f5b53916bd948bd3ec214b266fb7f8b449d0a08fc415ba353e635c4848e5ea744bd8d
+)
+
+[2025-12-02 15:40:21] Signature OK | Payment SUCCESS
+[2025-12-02 15:40:21] markAsPaid OK (OrderID 224)
+[2025-12-02 15:40:21] Promo code updated (code=GG30) -> affected=1
+[2025-12-02 15:40:21] Skip reduceStock: already reduced before
+[2025-12-02 15:40:21] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 18:17:09 =====
+Array
+(
+    [vnp_Amount] => 2700000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315427
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764674180
+    [vnp_PayDate] => 20251202181706
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315427
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764674180
+    [vnp_SecureHash] => 1e8731ec66c86b95f82df7d475548c196d2356fb1cf517044d08f50d02fdf415e88ced10eca27ecc6fbae42b65e2c7a25c650f132d10613930787970ae89c42c
+)
+
+[2025-12-02 18:17:09] Signature OK | Payment SUCCESS
+[2025-12-02 18:17:09] markAsPaid OK (OrderID 228)
+[2025-12-02 18:17:09] Skip reduceStock: already reduced before
+[2025-12-02 18:17:09] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 18:46:28 =====
+Array
+(
+    [vnp_Amount] => 13000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315467
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764675955|MAKM=GG30
+    [vnp_PayDate] => 20251202184626
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315467
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764675955
+    [vnp_SecureHash] => d4da1eae8a97373d7f99dff88038c2363de3ac36c555e995a8eb8224dd9d4b362870881f066ef45bfe40e0d35d3e9b3bffccceaf4dc78f5e19f3c315b98f2346
+)
+
+[2025-12-02 18:46:28] Signature OK | Payment SUCCESS
+[2025-12-02 18:46:28] markAsPaid OK (OrderID 230)
+[2025-12-02 18:46:28] Promo code updated (code=GG30) -> affected=1
+[2025-12-02 18:46:28] Skip reduceStock: already reduced before
+[2025-12-02 18:46:28] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 19:18:17 =====
+Array
+(
+    [vnp_Amount] => 13000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315506
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764677863|MAKM=GG30
+    [vnp_PayDate] => 20251202191815
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315506
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764677863
+    [vnp_SecureHash] => 410cdd72e912d58eba0b5c17af64c440cd1181c157b632cf76944a05ffc0bd570bb9b59b47ef14272830a5f1ecd83b49b3ee8ae1d43cea8de037c19f22e3dab8
+)
+
+[2025-12-02 19:18:17] Signature OK | Payment SUCCESS
+[2025-12-02 19:18:17] markAsPaid OK (OrderID 231)
+[2025-12-02 19:18:17] Promo code updated (code=GG30) -> affected=1
+[2025-12-02 19:18:17] Skip reduceStock: already reduced before
+[2025-12-02 19:18:17] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 19:59:06 =====
+Array
+(
+    [vnp_Amount] => 33000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315538
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764680236|MAKM=GG50K
+    [vnp_PayDate] => 20251202195741
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315538
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764680236
+    [vnp_SecureHash] => 56e9283bac28c5345a817489a646edde70135854d5645cce1eef8c69de9a12a114733486faf5e8c33a0193377a341270fa626bdfad816e11059c8a5efc8daed4
+)
+
+[2025-12-02 19:59:06] Signature OK | Payment SUCCESS
+[2025-12-02 19:59:06] markAsPaid OK (OrderID 237)
+[2025-12-02 19:59:06] Promo code updated (code=GG50K) -> affected=1
+[2025-12-02 19:59:06] Skip reduceStock: already reduced before
+[2025-12-02 19:59:06] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 20:00:07 =====
+Array
+(
+    [vnp_Amount] => 74000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315542
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764680379|MAKM=GG50K
+    [vnp_PayDate] => 20251202200005
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315542
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764680379
+    [vnp_SecureHash] => f452557b261d6bcb90989df40c5c2817a0e626fc0ae3b745e877d88991f3ad455f6403a6422ec28518e3908d89acb38756d8201abb62784e967eb6980681500e
+)
+
+[2025-12-02 20:00:07] Signature OK | Payment SUCCESS
+[2025-12-02 20:00:07] markAsPaid OK (OrderID 238)
+[2025-12-02 20:00:07] Skip reduceStock: already reduced before
+[2025-12-02 20:00:07] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-02 20:11:29 =====
+Array
+(
+    [vnp_Amount] => 3000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15315567
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764680981|MAKM=GG50K
+    [vnp_PayDate] => 20251202201125
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15315567
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764680981
+    [vnp_SecureHash] => 0a2ad4f1ca4c1b58079909581b4182378b3af696bf9e04e7846550e3448f07d43a5f8ba4bdbb8e514c74b299155a222460aa9a1007931e8f6fce1b7448f2c534
+)
+
+[2025-12-02 20:11:29] Signature OK | Payment SUCCESS
+[2025-12-02 20:11:29] markAsPaid OK (OrderID 241)
+[2025-12-02 20:11:29] Promo code updated (code=GG50K) -> affected=1
+[2025-12-02 20:11:29] Skip reduceStock: already reduced before
+[2025-12-02 20:11:29] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-03 22:18:00 =====
+Array
+(
+    [vnp_Amount] => 5000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15318108
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764775023|MAKM=GG15K
+    [vnp_PayDate] => 20251203221758
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15318108
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764775023
+    [vnp_SecureHash] => 1d9df85ce36912aae01a1aa90a94b496e12f4536a0eb958fc2f4df22bfc377f035ebb0f1bd61375d88c11bbc6f6c221ca1ae7864b1e71b75286805723e6af02a
+)
+
+[2025-12-03 22:18:00] Signature OK | Payment SUCCESS
+[2025-12-03 22:18:00] markAsPaid OK (OrderID 242)
+[2025-12-03 22:18:00] Promo code updated (code=GG15K) -> affected=1
+[2025-12-03 22:18:00] Skip reduceStock: already reduced before
+[2025-12-03 22:18:00] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-04 02:23:57 =====
+Array
+(
+    [vnp_Amount] => 42900000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15318454
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764789658|MAKM=GG15K
+    [vnp_PayDate] => 20251204022354
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15318454
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764789658
+    [vnp_SecureHash] => 41cc5eac5e9fdb1b7ed64ca3a18ae6b3949b72f8acf3a253136692ee16c789c2e7067e79b738b2ce0345a81294aa0543d244420e4c4b72c0013e212e1cac4226
+)
+
+[2025-12-04 02:23:57] Signature OK | Payment SUCCESS
+[2025-12-04 02:23:57] markAsPaid OK (OrderID 243)
+[2025-12-04 02:23:57] Promo code updated (code=GG15K) -> affected=1
+[2025-12-04 02:23:57] Skip reduceStock: already reduced before
+[2025-12-04 02:23:57] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-04 21:51:23 =====
+Array
+(
+    [vnp_Amount] => 51000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15320461
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764859673|MAKM=GG30
+    [vnp_PayDate] => 20251204215122
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15320461
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764859673
+    [vnp_SecureHash] => 2cd7fded632b8a0fec7bc83c496f988164e460997ac77fcf7375a556bcfd8961e236c9a73abd171ef859da45413095f4d17ba86872fa8919007e2e8ccac94a4c
+)
+
+[2025-12-04 21:51:23] Signature OK | Payment SUCCESS
+[2025-12-04 21:51:23] markAsPaid OK (OrderID 244)
+[2025-12-04 21:51:23] Promo code updated (code=GG30) -> affected=1
+[2025-12-04 21:51:23] Skip reduceStock: already reduced before
+[2025-12-04 21:51:23] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-04 23:05:08 =====
+Array
+(
+    [vnp_Amount] => 6800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15320606
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764864241
+    [vnp_PayDate] => 20251204230503
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15320606
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764864241
+    [vnp_SecureHash] => ac17c9acb8c127c8408bf6b9e99e044dc1d6a354cb224480e57ea9fd074b5a029509b8b1a315e9b2a8747e30146c6f71634d234006363039a09841139e4723ec
+)
+
+[2025-12-04 23:05:08] Signature OK | Payment SUCCESS
+[2025-12-04 23:05:08] markAsPaid OK (OrderID 245)
+[2025-12-04 23:05:08] Skip reduceStock: already reduced before
+[2025-12-04 23:05:08] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-05 13:48:18 =====
+Array
+(
+    [vnp_Amount] => 5200000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15321797
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764917261
+    [vnp_PayDate] => 20251205134813
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15321797
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764917261
+    [vnp_SecureHash] => 70f9949483294e6fd4d0900d0d2f54ee260d0bdc78f32fc92e109e03d9bca0f680b9acc0b66e2e0f76fc29243dda78df41aa4f3157440a46ce63092f81771c0f
+)
+
+[2025-12-05 13:48:18] Signature OK | Payment SUCCESS
+[2025-12-05 13:48:18] markAsPaid OK (OrderID 246)
+[2025-12-05 13:48:18] Skip reduceStock: already reduced before
+[2025-12-05 13:48:18] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-05 15:51:55 =====
+Array
+(
+    [vnp_Amount] => 17500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15322103
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764924671
+    [vnp_PayDate] => 20251205155148
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15322103
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764924671
+    [vnp_SecureHash] => 5a556de64b05e1dfa480f205c39392184a9abd7a2bef06d4480d7917cacf3d122014c9d30eecba673eb0305b9f8755e18647bc2cf896440c86f6dea2d4faa39b
+)
+
+[2025-12-05 15:51:55] Signature OK | Payment SUCCESS
+[2025-12-05 15:51:55] markAsPaid OK (OrderID 248)
+[2025-12-05 15:51:55] Skip reduceStock: already reduced before
+[2025-12-05 15:51:55] [HOME] https://undazing-ean-individually.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-05 17:28:12 =====
+Array
+(
+    [vnp_Amount] => 2200000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15322348
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1764930439|MAKM=GG50K
+    [vnp_PayDate] => 20251205172812
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15322348
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1764930439
+    [vnp_SecureHash] => feafea7e99da754ea80d5f0073e9e4b0c01ea5fbcdcc933f8531421ce3b26cf54fa567a9422edcf02602e03a48a2cd158e5a16a03137488fe517cd9fe131436a
+)
+
+[2025-12-05 17:28:12] Signature OK | Payment SUCCESS
+[2025-12-05 17:28:12] markAsPaid OK (OrderID 249)
+[2025-12-05 17:28:12] Promo code updated (code=GG50K) -> affected=1
+[2025-12-05 17:28:12] Skip reduceStock: already reduced before
+[2025-12-05 17:28:12] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-11 22:17:37 =====
+Array
+(
+    [vnp_Amount] => 22000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15335708
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765466208|MAKM=GG100K
+    [vnp_PayDate] => 20251211221734
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15335708
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765466208
+    [vnp_SecureHash] => 2227a4ae63ab594bc70b65b047267417e232cadf2c2242a53f37edfcdee252386a5e37ee6b68d572ae8a4006f13ae52af097969c2eb2352b8fa6077793d6a46e
+)
+
+[2025-12-11 22:17:37] Signature OK | Payment SUCCESS
+[2025-12-11 22:17:37] markAsPaid OK (OrderID 252)
+[2025-12-11 22:17:37] Promo code updated (code=GG100K) -> affected=1
+[2025-12-11 22:17:37] Skip reduceStock: already reduced before
+[2025-12-11 22:17:37] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-11 22:28:42 =====
+Array
+(
+    [vnp_Amount] => 3000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15335738
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765466886|MAKM=GG100K
+    [vnp_PayDate] => 20251211222839
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15335738
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765466886
+    [vnp_SecureHash] => 8ef6b24003b25267f2ff9476db6c7d531f37f2ce8cc6fbe1b62becda3a93e94111559304a51b62678e34600e7274cfb793fc1a94ab061ccdbbfb4438ebc5e2b4
+)
+
+[2025-12-11 22:28:42] Signature OK | Payment SUCCESS
+[2025-12-11 22:28:42] markAsPaid OK (OrderID 254)
+[2025-12-11 22:28:42] Skip reduceStock: already reduced before
+[2025-12-11 22:28:42] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-12 12:23:59 =====
+Array
+(
+    [vnp_Amount] => 12800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15336737
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765516793|MAKM=GG5K
+    [vnp_PayDate] => 20251212122325
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15336737
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765516793
+    [vnp_SecureHash] => a0ff08056dd54a4730eb2c1c33ada202ac01effb3113d646a26e9381a89fb00d1c9b09a07c1a12e116c391a274aacc1df8e3167ca940da1792c25d7a7ad7da7b
+)
+
+[2025-12-12 12:23:59] Signature OK | Payment SUCCESS
+[2025-12-12 12:23:59] markAsPaid OK (OrderID 256)
+[2025-12-12 12:23:59] Promo code updated (code=GG5K) -> affected=1
+[2025-12-12 12:23:59] Skip reduceStock: already reduced before
+===== CALLBACK 2025-12-12 12:24:26 =====
+Array
+(
+    [vnp_Amount] => 12800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15336737
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765516793|MAKM=GG5K
+    [vnp_PayDate] => 20251212122325
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15336737
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765516793
+    [vnp_SecureHash] => a0ff08056dd54a4730eb2c1c33ada202ac01effb3113d646a26e9381a89fb00d1c9b09a07c1a12e116c391a274aacc1df8e3167ca940da1792c25d7a7ad7da7b
+)
+
+[2025-12-12 12:24:26] Signature OK | Payment SUCCESS
+[2025-12-12 12:24:26] markAsPaid OK (OrderID 256)
+[2025-12-12 12:24:26] Promo code updated (code=GG5K) -> affected=1
+[2025-12-12 12:24:26] Skip reduceStock: already reduced before
+[2025-12-12 12:24:26] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-12 16:00:29 =====
+Array
+(
+    [vnp_Amount] => 34800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15337296
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765529852|MAKM=GG5K
+    [vnp_PayDate] => 20251212160002
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15337296
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765529852
+    [vnp_SecureHash] => c97003ad2588dc1bec374c78100afed0cbedf7b40d6bb9e7be74ccd822c195bdca848dd55d9612b61cd1d672dabff7daafae579116302a9b98dc4bd9f009452a
+)
+
+[2025-12-12 16:00:29] Signature OK | Payment SUCCESS
+[2025-12-12 16:00:29] markAsPaid OK (OrderID 257)
+[2025-12-12 16:00:29] Promo code updated (code=GG5K) -> affected=1
+[2025-12-12 16:00:29] Skip reduceStock: already reduced before
+[2025-12-12 16:00:29] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-12 23:35:34 =====
+Array
+(
+    [vnp_Amount] => 6800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15338022
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765557263
+    [vnp_PayDate] => 20251212233531
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15338022
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765557263
+    [vnp_SecureHash] => 7ad57d46ca2718181d1ea8568952e5e6e90058b1b4e118f2e1743cae4c40a22db6e72a181efa027b8ae8011a80abbac270efadc3ed3782dd96ba2cee8393665b
+)
+
+[2025-12-12 23:35:34] Signature OK | Payment SUCCESS
+[2025-12-12 23:35:34] markAsPaid OK (OrderID 258)
+[2025-12-12 23:35:34] Skip reduceStock: already reduced before
+[2025-12-12 23:35:34] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
+===== CALLBACK 2025-12-13 13:54:20 =====
+Array
+(
+    [vnp_Amount] => 47200000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP15338685
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan GD:HD1765608806|MAKM=GG100K
+    [vnp_PayDate] => 20251213135401
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => DO2BJRN9
+    [vnp_TransactionNo] => 15338685
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => HD1765608806
+    [vnp_SecureHash] => af1419276b686c662fd2be45f6e7724de8864b041a63ac46165fc8bcba142eb0acf4ddd4f11195e96f7a2e6bb83dc1c906efa76bc669f29d29c48e7a6454bb67
+)
+
+[2025-12-13 13:54:20] Signature OK | Payment SUCCESS
+[2025-12-13 13:54:20] markAsPaid OK (OrderID 259)
+[2025-12-13 13:54:20] Promo code updated (code=GG100K) -> affected=1
+[2025-12-13 13:54:20] Skip reduceStock: already reduced before
+[2025-12-13 13:54:20] [HOME] https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php
