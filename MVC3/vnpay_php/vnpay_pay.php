@@ -1,7 +1,8 @@
 <?php
 session_start();
 
-define('HOME_URL', 'https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php');
+define('HOME_URL', 'https://tragng14-webvpp.infinityfreeapp.com/index.php');
+
 define('DEFAULT_AMOUNT', 270000);
 
 $orderCode = $_SESSION['orderCode'] ?? ('HD' . time());

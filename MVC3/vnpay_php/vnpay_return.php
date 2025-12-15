@@ -153,7 +153,8 @@ if ($secureHash !== '' && hash_equals($secureHash, $vnp_SecureHash) && $vnp_Resp
 // =====================
 // URL TRANG CHỦ
 // =====================
-$homeHref = "https://maple-indiscrete-subglobularly.ngrok-free.dev/MVC3/index.php";
+$homeHref = "https://tragng14-webvpp.infinityfreeapp.com";
+
 file_put_contents($logFile, "[".date('Y-m-d H:i:s')."] [HOME] $homeHref\n", FILE_APPEND);
 
 ?>

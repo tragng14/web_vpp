@@ -2,7 +2,7 @@
 class DB {
     private $host   = 'sql310.infinityfree.com';
     private $user   = 'if0_40674409';
-    private $pass   = 'YOUR_VPANEL_PASSWORD'; // <-- thay bằng mật khẩu vPanel
+    private $pass   = 'Tiendat1508'; // 
     private $dbname = 'if0_40674409_web_vpp';
 
     protected $db;
